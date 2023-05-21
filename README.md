@@ -1,4 +1,3 @@
-![image](https://github-readme-stats.vercel.app/api?username=ignxcy&theme=nord&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignxcy&layout=compact&hide=php&theme=nord" alt="image" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ignxcy&amp;theme=nord&amp;show_icons=true" style="max-width: 100%;">
+<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=ignxcy&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
 
-<h2><a href="https://gitlab.com/ignxcy">My Gitlab profile</a></h2>
+<img align='right' width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignxcy&hide=&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
