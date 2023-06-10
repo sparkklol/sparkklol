@@ -1,13 +1,20 @@
-<h1>Hello!</h1>
-<h3>My name is Ignacy</h3>
+# Hi!
+## My name is Ignacy
 
 # Languages that I know:
 
 ![languages](https://skillicons.dev/icons?i=py,javascript,typescript,html,css)
 
-# Tools that I know
+# Tools that I know:
 
 ![tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vite,vim,neovim,vscode,bash,linux)
+
+# What I use:
+- Fedora Linux as my main os
+- i3wm as my WM
+- Zsh with Ohmyzsh as my shell
+- Alacritty as my terminal 
+- neovim && vscode as my daily editors 
 
 <h4>My GitHub stats:</h4>
 
