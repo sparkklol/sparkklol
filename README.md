@@ -3,7 +3,7 @@
 
 # Languages that I know:
 
-![languages](https://skillicons.dev/icons?i=py,javascript,typescript,html,css)
+![languages](https://skillicons.dev/icons?i=py,javascript,typescript,html,css,scss)
 
 # Tools that I know:
 
