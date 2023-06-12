@@ -11,7 +11,7 @@
 
 # What I use:
 - Fedora Linux as my main os
-- i3wm as my WM
+- i3-gaps as my WM
 - Zsh with Ohmyzsh as my shell
 - Alacritty as my terminal 
 - neovim && vscode as my daily editors 
