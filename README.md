@@ -1,5 +1,4 @@
-# Hi!
-## My name is Ignacy
+# Hi! My name is Ignacy
 
 # Languages that I know:
 
