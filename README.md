@@ -12,11 +12,12 @@
 - Fedora Linux as my main os
 - i3-gaps as my WM
 - Zsh with Ohmyzsh as my shell
-- Alacritty as my terminal 
+- Kitty as my terminal 
 - neovim && vscode as my daily editors 
 
 <h4>My GitHub stats:</h4>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=ignxcy&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
-
-<img width='70%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignxcy&hide=&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignxcy&theme=gruvbox) 
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignxcy&theme=gruvbox)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=gruvbox)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignxcy&&theme=gruvbox)
