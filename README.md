@@ -1,12 +1,8 @@
 # Hi! My name is Ignacy
 
-# Languages that I know:
-
 ![languages](https://skillicons.dev/icons?i=py,javascript,typescript,html,css,scss)
 
-# Tools that I know:
-
-![tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vite,vim,neovim,vscode,bash,linux)
+![tools](https://skillicons.dev/icons?i=git,linux,docker,vite,vim,neovim,vscode)
 
 # What I use:
 - Fedora Linux as my main os
