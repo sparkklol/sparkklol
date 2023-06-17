@@ -11,7 +11,7 @@
 - Kitty as my terminal 
 - neovim && vscode as my daily editors 
 
-<h4>My GitHub stats:</h4>
+<h1>My GitHub stats:</h1>
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignxcy&theme=gruvbox) 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignxcy&theme=gruvbox)
