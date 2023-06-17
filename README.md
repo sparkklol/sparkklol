@@ -19,5 +19,5 @@
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignxcy&theme=gruvbox) 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignxcy&theme=gruvbox)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=gruvbox)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ignxcy&hide_border=true&card_width=338&theme=gruvbox)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignxcy&&theme=gruvbox)
