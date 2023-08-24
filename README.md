@@ -5,7 +5,7 @@
 ![tools](https://skillicons.dev/icons?i=git,linux,docker,vite,vim,neovim,vscode)
 
 # What I use:
-- Artix Linux (OpenRC) as my main os
+- EndeavourOS as my main os
 - i3-gaps as my WM
 - Zsh with Ohmyzsh as my shell
 - Kitty as my terminal 
