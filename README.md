@@ -5,8 +5,8 @@
 ![tools](https://skillicons.dev/icons?i=git,linux,docker,vite,vim,neovim,vscode)
 
 # What I use:
-- EndeavourOS as my main os
-- i3-gaps as my WM
+- Arch Linux as my main os
+- Hyprland as my WM
 - Zsh with Ohmyzsh as my shell
 - Kitty as my terminal 
 - neovim && vscode as my daily editors 
